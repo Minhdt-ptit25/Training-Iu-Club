@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset="UTF-8">
+<title>Test mot ty thoi</title>
+<link rel="stylesheet" href="char_test.css">
+muon co hoc bong co
